@@ -1,5 +1,5 @@
 # Twat
-##### Commissioned by JustinAlexP
+#### Commissioned by [JustinAlexP](https://twitter.com/JustinAlexP?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
 
 Hello, this is Twat, which runs on Twit, for Twitter.
 
